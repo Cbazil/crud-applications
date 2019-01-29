@@ -1,0 +1,54 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "pokemon-name": "Bulbasaur",
+            "image": "URl('https://img.pokemondb.net/artwork/large/bulbasaur.jpg')"
+        },
+        {
+            "id": 2,
+            "pokemon-name": "Charmander",
+            "image": "URL('https://img.pokemondb.net/artwork/charmander.jpg')"
+        },
+        {
+            "id": 3,
+            "pokemon-name": "Squirtle",
+            "image": "URL('https://img.pokemondb.net/artwork/squirtle.jpg')"
+        },
+        {
+            "id": 4,
+            "pokemon-name": "Growlithe",
+            "image": "URL('https://img.pokemondb.net/artwork/growlithe.jpg')"
+        },
+        {
+            "id": 5,
+            "pokemon-name": "Vulpix",
+            "image": "URL('https://img.pokemondb.net/artwork/vulpix.jpg')"
+        },
+        {
+            "id": 6,
+            "pokemon-name": "Gligar",
+            "image": "URL('https://img.pokemondb.net/artwork/gligar.jpg')"
+        },
+        {
+            "id": 7,
+            "pokemon-name": "Murkrow",
+            "image": "URL('https://img.pokemondb.net/artwork/murkrow.jpg')"
+        },
+        {
+            "id": 8,
+            "pokemon-name": "Ralts",
+            "image":  "URL('https://img.pokemondb.net/artwork/ralts.jpg')"
+        },
+        {
+            "id": 9,
+            "pokemon-name": "Seedot",
+            "image": "URL('https://img.pokemondb.net/artwork/seedot.jpg')"
+        },
+        {
+            "id": 10,
+            "pokemon-name": "Marill",
+            "image": "URL('https://img.pokemondb.net/artwork/marill.jpg')"
+        }
+    ]
+}
